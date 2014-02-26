@@ -14,4 +14,4 @@ The latest version of each library will always be available under the `latest` v
 
 [tiny.toast](https://github.com/catdad/tiny.toast)
 
-``
+`<script src="//catdad.github.io/tiny.cdn/lib/toast/latest/toast.min.js"></script>`
