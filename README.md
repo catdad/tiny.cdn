@@ -6,12 +6,12 @@ Hi. Welcome to my little CDN. This is a place where I host my libraries, so that
 
 The structure of CDN is as such:
 
-`//catdad.github.io/tiny.cdn/lib/{name}/{version}/{file}`
+	//catdad.github.io/tiny.cdn/lib/{name}/{version}/{file}
 
 The latest version of each library will always be available under the `latest` version, with previous versions listed by number. Note that the latest version may change, so if you are adamant about using a specific version, link to that version instead of `latest`.
 
 ## Libraries
 
-[tiny.toast](https://github.com/catdad/tiny.toast)
+### [tiny.toast](https://github.com/catdad/tiny.toast)
 
-`<script src="//catdad.github.io/tiny.cdn/lib/toast/latest/toast.min.js"></script>`
+	<script src="//catdad.github.io/tiny.cdn/lib/toast/latest/toast.min.js"></script>
