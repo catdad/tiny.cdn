@@ -12,6 +12,10 @@ The latest version of each library will always be available under the `latest` v
 
 ## Libraries
 
+### [ColorJS](https://github.com/catdad/ColorJS)
+
+	<script src="//catdad.github.io/tiny.cdn/lib/colorjs/latest/color.min.js"></script>
+
 ### [tiny.toast](https://github.com/catdad/tiny.toast)
 
 	<script src="//catdad.github.io/tiny.cdn/lib/toast/latest/toast.min.js"></script>
