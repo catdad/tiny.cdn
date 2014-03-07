@@ -13,7 +13,6 @@
 	
 	<title>Tiny CDN</title>
 
-
 	<!--link rel="shortcut icon" href="favicon.ico" /--> 
 	<link rel="apple-touch-icon" sizes="196x196" href="favicon.png">
 	<link rel="icon" type="image/png" href="favicon.png" />
@@ -56,7 +55,6 @@ request({
 }, function(res){
 	var md = document.getElementById('markdown');
 	md.innerHTML = marked(res);
-	console.log(res);
 });
 </script>
 
