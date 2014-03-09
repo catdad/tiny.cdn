@@ -48,13 +48,13 @@
 <div id='markdown'></div>
 
 <script src='//cdnjs.cloudflare.com/ajax/libs/marked/0.3.1/marked.js'></script>
-<script src='assets/tinyrequest.js'></script>
+<script src='//catdad.github.io/tiny.cdn/lib/request/latest/request.min.js'></script>
 <script>
 request({
 	url: 'README.md'
-}, function(res){
+}, function(err, res){
 	var md = document.getElementById('markdown');
-	md.innerHTML = marked(res);
+	!err && res && (md.innerHTML = marked(res));
 });
 </script>
 
