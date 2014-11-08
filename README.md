@@ -25,4 +25,4 @@ The latest version of each library will always be available under the `latest` v
 ### [tiny.toast](https://github.com/catdad/tiny.toast)
 [see all versions](https://github.com/catdad/tiny.cdn/tree/gh-pages/lib/toast)
 
-	<script src="http://catdad.github.io/tiny.cdn/lib/toast/0.0.4/toast.min.js"></script>
+	<script src="http://catdad.github.io/tiny.cdn/lib/toast/1.0.0/toast.min.js"></script>
