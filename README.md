@@ -15,12 +15,12 @@ The latest version of each library will always be available under the `latest` v
 ### [colorjs-lib](https://github.com/catdad/colorjs-lib)
 [see all versions](https://github.com/catdad/tiny.cdn/tree/gh-pages/lib/colorjs)
 
-	<script src="http://catdad.github.io/tiny.cdn/lib/colorjs/0.1.0/color.min.js"></script>
+	<script src="http://catdad.github.io/tiny.cdn/lib/colorjs/0.2.1/color.min.js"></script>
 
 ### [tiny.request](https://github.com/catdad/tiny.request)
 [see all versions](https://github.com/catdad/tiny.cdn/tree/gh-pages/lib/request)
 
-	<script src="http://catdad.github.io/tiny.cdn/lib/request/0.4.0/request.min.js"></script>
+	<script src="http://catdad.github.io/tiny.cdn/lib/request/0.4.1/request.min.js"></script>
 	
 ### [tiny.toast](https://github.com/catdad/tiny.toast)
 [see all versions](https://github.com/catdad/tiny.cdn/tree/gh-pages/lib/toast)
