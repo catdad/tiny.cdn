@@ -20,7 +20,7 @@ The latest version of each library will always be available under the `latest` v
 ### [tiny.request](https://github.com/catdad/tiny.request)
 [see all versions](https://github.com/catdad/tiny.cdn/tree/gh-pages/lib/request)
 
-	<script src="http://catdad.github.io/tiny.cdn/lib/request/0.4.1/request.min.js"></script>
+	<script src="http://catdad.github.io/tiny.cdn/lib/request/0.5.0/request.min.js"></script>
 	
 ### [tiny.toast](https://github.com/catdad/tiny.toast)
 [see all versions](https://github.com/catdad/tiny.cdn/tree/gh-pages/lib/toast)
